@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-go get github.com/yourusername/gojson
+go get github.com/UserLeeZJ/gojson
 ```
 
 ## 使用示例
@@ -26,7 +26,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/gojson"
+    "github.com/UserLeeZJ/gojson"
 )
 
 func main() {
@@ -50,7 +50,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/gojson"
+    "github.com/UserLeeZJ/gojson"
 )
 
 func main() {
@@ -79,7 +79,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/gojson"
+    "github.com/UserLeeZJ/gojson"
 )
 
 func main() {
@@ -120,7 +120,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/gojson"
+    "github.com/UserLeeZJ/gojson"
 )
 
 func main() {
@@ -156,7 +156,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/gojson"
+    "github.com/UserLeeZJ/gojson"
 )
 
 func main() {
@@ -210,4 +210,4 @@ func main() {
 
 ## 许可证
 
-MIT
+GNU GENERAL PUBLIC LICENSE
