@@ -622,6 +622,12 @@ make test
 # 运行基准测试
 make bench
 
+# 构建命令行工具
+make tools
+
+# 安装命令行工具  
+make install-tools
+
 # 运行示例
 make examples
 

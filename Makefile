@@ -62,10 +62,6 @@ coverage:
 	@go test -coverprofile=coverage.out -covermode=atomic ./...
 	@go tool cover -html=coverage.out
 
-# 生成文档
-docs:
-	@echo "Generating documentation..."
-	@godoc -http=:6060
 
 # 帮助
 help:
@@ -80,5 +76,4 @@ help:
 	@echo "  examples      - Run examples"
 	@echo "  lint          - Run linter"
 	@echo "  coverage      - Generate coverage report"
-	@echo "  docs          - Generate and serve documentation"
 	@echo "  help          - Show this help message"
